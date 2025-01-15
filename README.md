@@ -1,7 +1,8 @@
-# Multiclass Classification Model using [Custom CNN] with Tensorflow
+# Multiclass Classification Model Custom CNN with Tensorflow for Melnoma Detection
+
 
 ## Problem Statement
-In this assignment, you will build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
+In this assignment, a multiclass classification model using a custom convolutional neural network in TensorFlow has been built.
 
  
  
@@ -28,9 +29,9 @@ Please download the Ipython notebook from here:
 CNN Assignment starter code
 
 ## NOTE:-
-  - You don't have to use any pre-trained model using Transfer learning. All the model building processes should be based on a custom model.
-  - Some of the elements introduced in the assignment are new, but proper steps have been taken to ensure smooth learning. You must learn from the base code provided and implement the same for your problem statement.
-  - The model training may take time to train as you will be working with large epochs. It is advised to use GPU runtime in Google Colab.
+  - I haven't used any pre-trained model using Transfer learning. All the model building processes are based on a custom model.
+  - Some of the elements introduced in the assignment are new, but proper steps have been taken to ensure smooth learning.
+  - The model training may take time to train as I will be working with large epochs. I used GPU runtime in Google Colab.
  
 
 ### Project Pipeline
